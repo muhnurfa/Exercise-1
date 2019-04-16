@@ -1,0 +1,62 @@
+.main-header {
+    background-image: url(../img/16.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 9% 0;
+}
+
+.container-fluid {
+    overflow: hidden;
+}
+
+.gambar {
+    margin-bottom: 2%;
+}
+
+.nama-header {
+    color: white;
+}
+
+.nama-header2 {
+    color:white;
+}
+
+.main-about {
+    padding: 12% 0;
+}
+
+.main-hobbies {
+    background-color: #DDDDDD;
+    padding: 12%;
+}
+
+hr {
+	width: 250px ;
+	border-top: 4px solid #999;
+}
+
+.h2-hobbies{
+    margin-left: 18px;
+}
+
+.h2-hobbies1{
+    margin-left: 41px;
+}
+
+.h2-hobbies2{
+    margin-left: 45px;
+}
+
+.h2-hobbies3{
+    margin-left: 115px;
+}
+
+.main-contact {
+    padding: 12%;
+}
+
+.main-footer {
+    background-color: black;
+    color: white;
+    padding: 5% 0;
+}
